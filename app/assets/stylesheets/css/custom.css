@@ -3,5 +3,26 @@
 }
 
 .custom-header {
+	margin-top: -10%;
 	font-size: 200%;
+	text-align: center;
+}
+
+.projects {
+	width: 30%;
+	min-height: 300px;
+	float: left;
+	margin: 1.66%;
+	max-height: 300px;
+
+	/*border: red solid 2px;*/
+}
+
+#history-hr {
+	width: 65%;
+	margin: 0 auto;
+}
+
+#greeting {
+	font-size: 30px;
 }
